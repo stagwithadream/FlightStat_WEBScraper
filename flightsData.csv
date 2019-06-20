@@ -1,0 +1,871 @@
+Flight Number,Origin of Flight,Origin Time,Arrival Time,Airlines
+G8 - 714,Ahmedabad,22:20,00:05,GoAir
+SG - 6710,Mumbai,21:40,00:05,SpiceJet
+6E - 564,Hyderabad,21:40,00:05,IndiGo
+G8 - 144,Patna,22:10,00:05,GoAir
+6E - 24,Dubai,19:00,00:05,IndiGo
+6E - 447,Lucknow,22:40,00:05,IndiGo
+I5* - 786,Guwahati,21:20,00:10,AirAsia India
+6E - 224,Kolkata,21:45,00:10,IndiGo
+AI - 335,Bangkok,21:05,00:10,Air India
+AI - 854,Pune,21:55,00:10,Air India
+BA - 5854,Mumbai,21:55,00:15,British Airways
+SQ - 4766,Mumbai,21:55,00:15,Singapore Airlines
+UK* - 950,Mumbai,21:55,00:15,Vistara
+6E - 2305,Bengaluru,21:25,00:15,IndiGo
+6E - 2405,Bhubaneswar,21:50,00:20,IndiGo
+TG - 335,Bangkok,21:25,00:25,Thai Airways International
+KU - 381,Kuwait,17:55,00:35,Kuwait Airways
+6E - 2895,Amritsar,23:20,00:35,IndiGo
+TK - 4656,Amritsar,23:20,00:35,Turkish Airlines
+6E - 336,Goa,22:00,00:40,IndiGo
+BZ* - 201,Kolkata,22:25,00:45,Blue Dart Aviation
+SG - 8720,Bengaluru,22:00,00:45,SpiceJet
+6E - 198,Mumbai,22:25,00:45,IndiGo
+UK* - 986,Mumbai,22:40,00:50,Vistara
+UA - 8906,Frankfurt,13:40,00:55,United Airlines
+LH - 760,Frankfurt,13:40,00:55,Lufthansa
+AI - 7568,Addis Ababa,15:45,00:55,Air India
+AC - 9352,Frankfurt,13:40,00:55,Air Canada
+AI - 8760,Frankfurt,13:40,00:55,Air India
+ET - 688,Addis Ababa,15:45,00:55,Ethiopian Airlines
+I5* - 755,Hyderabad,22:50,01:00,AirAsia India
+6E - 114,Lucknow,23:45,01:05,IndiGo
+G8 - 345,Mumbai,22:55,01:10,GoAir
+I5* - 547,Kolkata,22:40,01:10,AirAsia India
+6E - 2289,Bengaluru,22:20,01:10,IndiGo
+TK - 4678,Bengaluru,22:20,01:10,Turkish Airlines
+G8 - 426,Hyderabad,23:00,01:15,GoAir
+XW* - 306,Bangkok,22:40,01:15,NokScoot Airlines
+6E - 766,Hyderabad,23:05,01:20,IndiGo
+TK - 4665,Hyderabad,23:05,01:20,Turkish Airlines
+W5 - 71,Tehran,20:50,01:20,Mahan Air
+I5* - 331,Mumbai,23:05,01:20,AirAsia India
+MU - 563,Shanghai,21:00,01:25,China Eastern Airlines
+G8 - 106,Kolkata,23:00,01:25,GoAir
+AI - 802,Bengaluru,23:00,01:30,Air India
+6E - 2704,Chennai,22:35,01:30,IndiGo
+TK - 4696,Chennai,22:35,01:30,Turkish Airlines
+I5* - 774,Goa,22:50,01:35,AirAsia India
+KL - 871,Amsterdam,14:25,01:45,KLM
+AF - 8439,Amsterdam,14:25,01:45,Air France
+DL - 9574,Amsterdam,14:25,01:45,Delta Air Lines
+6E - 672,Pune,23:30,01:45,IndiGo
+QR - 578,Doha,19:45,01:55,Qatar Airways
+AI - 916,Dubai,20:50,02:00,Air India
+SG - 198,Bengaluru,23:10,02:00,SpiceJet
+G8 - 2508,Mumbai,00:05,02:10,GoAir
+NH - 5595,Bangkok,23:15,02:15,ANA
+TG - 331,Bangkok,23:15,02:15,Thai Airways International
+AC - 6397,Shanghai,22:00,02:20,Air Canada
+6E - 2484,Bengaluru,23:30,02:20,IndiGo
+AI - 349,Shanghai,22:00,02:20,Air India
+TK - 4677,Bengaluru,23:30,02:20,Turkish Airlines
+WY - 243,Muscat,21:55,02:30,Oman Air
+IA - 445,Baghdad,19:00,02:30,Iraqi Airways
+DL - 6700,Rome,14:10,02:35,Delta Air Lines
+UL - 3470,Rome,14:10,02:35,SriLankan Airlines
+AZ - 770,Rome,14:10,02:35,Alitalia
+TK - 6571,Hanoi,23:10,02:40,Turkish Airlines
+6E - 6489,Mumbai,00:25,02:40,IndiGo
+EK - 512,Dubai,21:15,02:40,Emirates
+I5* - 722,Bengaluru,00:05,02:45,AirAsia India
+BZ* - 304,Bengaluru,00:15,02:55,Blue Dart Aviation
+TK - 4668,Chennai,00:05,02:55,Turkish Airlines
+6E - 2622,Chennai,00:05,02:55,IndiGo
+EY - 218,Abu Dhabi,21:45,03:00,Etihad Airways
+6E - 22,Dubai,22:10,03:00,IndiGo
+AI - 884,Goa,00:50,03:10,Air India
+BZ* - 684,Hyderabad,01:00,03:10,Blue Dart Aviation
+ET - 1139,Goa,00:50,03:10,Ethiopian Airlines
+TK - 4681,Bengaluru,00:25,03:15,Turkish Airlines
+6E - 2625,Bengaluru,00:25,03:15,IndiGo
+6E - 6532,Goa,00:50,03:25,IndiGo
+G8 - 176,Pune,01:20,03:30,GoAir
+I5* - 736,Pune,01:30,03:40,AirAsia India
+AI - 974,Muscat,23:10,03:45,Air India
+6E - 2127,Bhubaneswar,01:30,03:55,IndiGo
+6E - 2125,Chennai,01:10,04:00,IndiGo
+G9 - 463,Sharjah,23:15,04:00,Air Arabia
+TK - 4669,Chennai,01:10,04:00,Turkish Airlines
+GF - 130,Bahrain,21:45,04:05,Gulf Air
+6E - 837,Kochi,00:55,04:10,IndiGo
+AI - 548,Coimbatore,01:10,04:10,Air India
+6E - 2135,Bengaluru,01:25,04:15,IndiGo
+UL - 191,Colombo,00:40,04:15,SriLankan Airlines
+TK - 4679,Bengaluru,01:25,04:15,Turkish Airlines
+6E - 154,Mumbai,02:00,04:15,IndiGo
+SG - 12,Dubai,22:45,04:20,SpiceJet
+6E - 6698,Pune,02:10,04:25,IndiGo
+AI - 992,Jeddah,21:15,04:45,Air India
+6E - 4000,Istanbul,20:20,04:45,IndiGo
+AI - 6070,Istanbul,20:20,04:45,Air India
+TK - 716,Istanbul,20:20,04:45,Turkish Airlines
+6E - 1822,Kuala Lumpur,01:50,04:55,IndiGo
+AI - 996,Dubai,00:05,05:00,Air India
+BZ* - 102,Mumbai,03:05,05:10,Blue Dart Aviation
+KU - 383,Kuwait,22:35,05:15,Kuwait Airways
+SG - 8191,Pune,03:15,05:30,SpiceJet
+EY - 973,Hanoi,02:45,05:35,Etihad Airways
+AC - 44,Vancouver,01:15,05:40,Air Canada
+SQ - 402,Singapore,02:35,05:40,Singapore Airlines
+NH - 6278,Singapore,02:35,05:40,ANA
+VA - 5526,Singapore,02:35,05:40,Virgin Australia
+T5 - 535,Ashgabat,01:55,05:40,Turkmenistan Airlines
+UA - 8095,Vancouver,01:15,05:40,United Airlines
+IX - 116,Abu Dhabi,00:20,05:50,Air India Express
+BZ* - 154,Ahmedabad,04:20,05:50,Blue Dart Aviation
+AY - 121,Helsinki,18:35,06:05,Finnair
+SU - 232,Moscow,19:10,06:15,Aeroflot
+PS - 391,Kiev/Kyiv,20:55,06:20,UIA
+6E - 6683,Ahmedabad,05:00,06:40,IndiGo
+6E - 2475,Bengaluru,04:00,06:50,IndiGo
+WY - 241,Muscat,02:20,06:55,Oman Air
+6E - 6606,Jaipur,06:00,06:55,IndiGo
+6E - 308,Hyderabad,04:35,06:55,IndiGo
+ET - 3739,Shanghai,02:30,07:00,Ethiopian Airlines
+I5* - 729,Pune,05:10,07:15,AirAsia India
+6E - 863,Pune,04:55,07:15,IndiGo
+UK* - 954,Mumbai,05:20,07:25,Vistara
+6E - 769,Lucknow,06:15,07:25,IndiGo
+QR - 8660,Doha,01:15,07:30,Qatar Airways
+6E - 2489,Bhubaneswar,05:10,07:35,IndiGo
+6E - 2652,Chennai,05:00,07:45,IndiGo
+6E - 738,Hyderabad,05:25,07:45,IndiGo
+SG - 8194,Ahmedabad,06:05,07:45,SpiceJet
+6E - 158,Ahmedabad,06:15,07:50,IndiGo
+AI - 454,Amritsar,06:50,07:55,Air India
+UL - 3606,Amritsar,06:50,07:55,SriLankan Airlines
+JL - 5280,Pune,05:55,07:55,JAL
+BA - 5886,Pune,05:55,07:55,British Airways
+G8 - 421,Hyderabad,05:35,07:55,GoAir
+G8 - 227,Kolkata,05:45,07:55,GoAir
+UK* - 990,Pune,05:55,07:55,Vistara
+AI - 444,Chandigarh,07:05,08:00,Air India
+SG - 471,Hyderabad,05:40,08:00,SpiceJet
+TK - 4655,Amritsar,06:55,08:05,Turkish Airlines
+6E - 2525,Amritsar,06:55,08:05,IndiGo
+TK - 4652,Ahmedabad,06:15,08:05,Turkish Airlines
+6E - 12,Ahmedabad,06:15,08:05,IndiGo
+UK* - 860,Hyderabad,06:05,08:05,Vistara
+SG - 160,Mumbai,06:00,08:05,SpiceJet
+ET - 686,Addis Ababa,22:55,08:10,Ethiopian Airlines
+TP - 7032,Rome,20:40,08:10,TAP Portugal
+AI - 122,Rome,20:40,08:10,Air India
+G8 - 329,Mumbai,06:00,08:10,GoAir
+AI - 7552,Addis Ababa,22:55,08:10,Air India
+6E - 6613,Mumbai,06:05,08:15,IndiGo
+9W - 762,Mumbai,06:00,08:20,Jet Airways (India)
+EY - 228,Abu Dhabi,02:40,08:20,Etihad Airways
+AI - 824,Vadodara,06:50,08:20,Air India
+G8 - 216,Leh,06:50,08:20,GoAir
+KL - 3800,Mumbai,06:00,08:20,KLM
+6E - 6013,Indore,06:45,08:25,IndiGo
+TK - 4657,Kolkata,05:55,08:25,Turkish Airlines
+FQA - 217,Chennai,05:45,08:25,Quikjet
+6E - 474,Kolkata,05:55,08:25,IndiGo
+SG - 8951,Kochi,05:30,08:30,SpiceJet
+6E - 2043,Jaipur,07:20,08:35,IndiGo
+6E - 2591,Vadodara,07:00,08:35,IndiGo
+SG - 136,Bengaluru,05:55,08:35,SpiceJet
+QR - 570,Doha,02:10,08:40,Qatar Airways
+TK - 4682,Ahmedabad,07:00,08:40,Turkish Airlines
+CD - 858,Dehra Dun,07:45,08:40,Alliance Air
+6E - 962,Ahmedabad,07:00,08:40,IndiGo
+AI - 18,Ahmedabad,07:10,08:45,Air India
+I5* - 2878,Bengaluru,06:15,08:45,AirAsia India
+6E - 2132,Bengaluru,06:00,08:50,IndiGo
+TK - 4675,Bengaluru,06:00,08:50,Turkish Airlines
+AI - 158,Copenhagen,20:40,08:50,Air India
+AI - 168,Stockholm,20:40,08:50,Air India
+CD - 646,Dehra Dun,08:15,08:55,Alliance Air
+I5* - 753,Indore,07:35,08:55,AirAsia India
+AI - 440,Chennai,06:10,08:55,Air India
+AC - 6431,Chennai,06:10,08:55,Air Canada
+AI - 804,Bengaluru,06:10,08:55,Air India
+AI - 9646,Dehra Dun,08:15,08:55,Air India
+AI - 498,Rajkot,07:35,08:55,Air India
+6E - 2323,Udaipur,07:35,09:00,IndiGo
+AI - 559,Hyderabad,06:45,09:00,Air India
+6E - 455,Chandigarh,07:55,09:05,IndiGo
+AI - 864,Mumbai,07:00,09:05,Air India
+EK - 510,Dubai,03:50,09:05,Emirates
+6E - 2224,Mumbai,06:30,09:10,IndiGo
+SG - 2469,Dharamsala,07:55,09:10,SpiceJet
+6E - 516,Kochi,06:05,09:15,IndiGo
+SG - 2472,Dehra Dun,08:25,09:15,SpiceJet
+AI - 763,Kolkata,06:55,09:15,Air India
+TK - 4666,Chennai,06:30,09:20,Turkish Airlines
+SG - 122,Leh,07:40,09:20,SpiceJet
+6E - 2976,Chennai,06:30,09:20,IndiGo
+SQ - 4702,Kolkata,07:10,09:25,Singapore Airlines
+I5* - 716,Srinagar,07:55,09:25,AirAsia India
+TK - 4688,Kolkata,07:00,09:25,Turkish Airlines
+AI - 436,Bhopal,08:00,09:25,Air India
+UK* - 720,Kolkata,07:10,09:25,Vistara
+BA - 5858,Kolkata,07:10,09:25,British Airways
+JL - 5282,Kolkata,07:10,09:25,JAL
+MI - 5201,Kolkata,07:10,09:25,SilkAir
+6E - 6324,Kolkata,07:00,09:25,IndiGo
+AI - 494,Surat Gujarat,07:45,09:30,Air India
+LH - 7252,Frankfurt,21:15,09:35,Lufthansa
+SG - 152,Mumbai,07:20,09:35,SpiceJet
+JP - 9420,Frankfurt,21:15,09:35,Adria Airways
+AI - 120,Frankfurt,21:15,09:35,Air India
+AI - 142,Paris,22:00,09:35,Air India
+AC - 6394,Paris,22:00,09:35,Air Canada
+SG - 8624,Bhopal,08:15,09:35,SpiceJet
+BA - 257,London,19:25,09:35,British Airways
+TP - 7028,Frankfurt,21:15,09:35,TAP Portugal
+AA - 6663,London,19:25,09:35,American Airlines
+LO - 4501,Frankfurt,21:15,09:35,LOT - Polish Airlines
+6E - 636,Nagpur,07:50,09:35,IndiGo
+UK* - 810,Bengaluru,07:00,09:40,Vistara
+UK* - 832,Chennai,06:50,09:40,Vistara
+MI - 5214,Bengaluru,07:00,09:40,SilkAir
+JL - 5196,Chennai,06:50,09:40,JAL
+JL - 5180,Bengaluru,07:00,09:40,JAL
+RA - 205,Kathmandu,08:00,09:40,Nepal Airlines
+BA - 5836,Bengaluru,07:00,09:40,British Airways
+SQ - 4726,Bengaluru,07:00,09:40,Singapore Airlines
+SQ - 4770,Chennai,06:50,09:40,Singapore Airlines
+SG - 8937,Pune,07:20,09:40,SpiceJet
+MI - 5241,Chennai,06:50,09:40,SilkAir
+6E - 6571,Pune,07:30,09:45,IndiGo
+SG - 8475,Surat Gujarat,08:00,09:50,SpiceJet
+AI - 852,Pune,07:40,09:50,Air India
+6E - 2036,Bhopal,08:30,09:50,IndiGo
+G8 - 204,Leh,08:20,09:55,GoAir
+SG - 104,Chennai,07:00,09:55,SpiceJet
+I5* - 551,Kolkata,07:35,09:55,AirAsia India
+TK - 4664,Hyderabad,07:40,10:00,Turkish Airlines
+6E - 846,Hyderabad,07:40,10:00,IndiGo
+G8 - 136,Patna,08:15,10:00,GoAir
+6E - 2025,Varanasi,08:20,10:05,IndiGo
+TK - 4676,Bengaluru,07:10,10:05,Turkish Airlines
+AI - 154,Vienna,22:45,10:05,Air India
+6E - 2228,Bengaluru,07:10,10:05,IndiGo
+JP - 9431,Vienna,22:45,10:05,Adria Airways
+G8 - 327,Mumbai,07:55,10:05,GoAir
+LO - 4505,Vienna,22:45,10:05,LOT - Polish Airlines
+6E - 964,Mumbai,07:50,10:05,IndiGo
+OS - 8581,Vienna,22:45,10:05,Austrian
+TP - 7048,Vienna,22:45,10:05,TAP Portugal
+AI - 914,Dammam,03:45,10:05,Air India
+B3* - 773,Paro,08:30,10:10,Bhutan Airlines
+AI - 348,Mumbai,07:55,10:10,Air India
+HM - 6502,Mumbai,07:55,10:10,Air Seychelles
+G8 - 2510,Lucknow,08:30,10:10,GoAir
+AI - 9814,Dharamsala,08:30,10:15,Air India
+AI - 991,Lucknow,08:55,10:15,Air India
+CD - 814,Dharamsala,08:30,10:15,Alliance Air
+MK - 8022,Mumbai,08:00,10:15,Air Mauritius
+HM - 6504,Mumbai,08:00,10:15,Air Seychelles
+AI - 806,Mumbai,08:00,10:15,Air India
+SG - 130,Kolkata,07:40,10:20,SpiceJet
+6E - 733,Lucknow,08:50,10:20,IndiGo
+SG - 2196,Jabalpur,08:15,10:20,SpiceJet
+UK* - 946,Ahmedabad,08:35,10:25,Vistara
+SQ - 4756,Ahmedabad,08:35,10:25,Singapore Airlines
+BA - 5820,Ahmedabad,08:35,10:25,British Airways
+TK - 4683,Ahmedabad,08:45,10:30,Turkish Airlines
+UK* - 602,Leh,09:05,10:30,Vistara
+6E - 6492,Ahmedabad,08:45,10:30,IndiGo
+TG - 323,Bangkok,07:35,10:35,Thai Airways International
+NH - 5945,Bangkok,07:35,10:35,ANA
+AI - 469,Nagpur,08:55,10:40,Air India
+G8 - 116,Bengaluru,07:45,10:40,GoAir
+AC - 6441,Kochi,07:30,10:45,Air Canada
+6E - 1764,Phuket,07:40,10:45,IndiGo
+ET - 1079,Kochi,07:30,10:45,Ethiopian Airlines
+VS - 300,London,21:40,10:45,Virgin Atlantic
+6E - 885,Guwahati,08:10,10:45,IndiGo
+AI - 466,Kochi,07:30,10:45,Air India
+SG - 32,Hong Kong,07:40,10:50,SpiceJet
+CZ - 3027,Guangzhou,07:30,10:50,China Southern Airlines
+G8 - 2516,Nagpur,09:10,10:50,GoAir
+KB - 204,Kathmandu,09:20,10:55,Drukair
+6E - 2018,Nagpur,09:15,10:55,IndiGo
+6E - 6367,Patna,09:05,10:55,IndiGo
+UK* - 794,Raipur,08:55,10:55,Vistara
+I5* - 719,Hyderabad,08:45,11:00,AirAsia India
+UK* - 983,Ranchi,08:55,11:00,Vistara
+SQ - 4742,Mumbai,08:45,11:00,Singapore Airlines
+AI - 214,Kathmandu,09:50,11:00,Air India
+UK* - 970,Mumbai,08:45,11:00,Vistara
+BA - 5848,Mumbai,08:45,11:00,British Airways
+TP - 7022,London,21:30,11:05,TAP Portugal
+LO - 4503,London,21:30,11:05,LOT - Polish Airlines
+AV - 2400,London,21:30,11:05,AVIANCA
+6E - 2216,Mumbai,08:40,11:05,IndiGo
+I5* - 778,Goa,08:20,11:05,AirAsia India
+AC - 6386,London,21:30,11:05,Air Canada
+AI - 112,London,21:30,11:05,Air India
+AI - 635,Indore,09:15,11:10,Air India
+SG - 8998,Patna,09:25,11:10,SpiceJet
+6E - 509,Indore,09:45,11:15,IndiGo
+6E - 854,Kolkata,09:00,11:20,IndiGo
+AI - 452,Vishakhapatnam,08:40,11:20,Air India
+K4 - 250,Hong Kong,07:45,11:20,Kalitta Air
+TK - 4674,Bengaluru,08:30,11:20,Turkish Airlines
+6E - 2367,Bengaluru,08:30,11:20,IndiGo
+G8 - 720,Ahmedabad,09:30,11:20,GoAir
+6E - 2726,Vishakhapatnam,08:55,11:25,IndiGo
+TK - 4667,Chennai,08:30,11:25,Turkish Airlines
+6E - 2394,Chennai,08:30,11:25,IndiGo
+AI - 460,Vijayawada,09:05,11:30,Air India
+MK - 8024,Mumbai,09:00,11:30,Air Mauritius
+HM - 6506,Mumbai,09:00,11:30,Air Seychelles
+AC - 6407,Mumbai,09:00,11:30,Air Canada
+AI - 866,Mumbai,09:00,11:30,Air India
+SG - 88,Bangkok,07:50,11:30,SpiceJet
+6E - 2486,Raipur,09:40,11:35,IndiGo
+AI - 381,Singapore,08:35,11:35,Air India
+UU - 7980,Chennai,08:40,11:35,Air Austral
+AI - 143,Chennai,08:40,11:35,Air India
+6E - 398,Ranchi,09:40,11:40,IndiGo
+6E - 6126,Mumbai,09:35,11:45,IndiGo
+AI - 867,Mumbai,09:30,11:45,Air India
+G8 - 32,Phuket,08:05,11:45,GoAir
+6E - 203,Jaipur,10:40,11:50,IndiGo
+UW* - 9899,Kunming,09:40,11:50,Uni-Top Airlines
+AI - 282,Colombo,08:20,11:50,Air India
+G8 - 194,Leh,10:25,11:55,GoAir
+I5* - 789,Guwahati,09:05,11:55,AirAsia India
+6E - 243,Varanasi,10:20,11:55,IndiGo
+SQ - 4708,Bhubaneswar,09:40,12:00,Singapore Airlines
+UK* - 786,Bhubaneswar,09:40,12:00,Vistara
+AI - 333,Bangkok,08:55,12:00,Air India
+BA - 5830,Bhubaneswar,09:40,12:00,British Airways
+BA - 5830,Bhubaneswar,09:40,12:00,British Airways
+SQ - 4708,Bhubaneswar,09:40,12:00,Singapore Airlines
+AI - 333,Bangkok,08:55,12:00,Air India
+UK* - 786,Bhubaneswar,09:40,12:00,Vistara
+6E - 918,Kolkata,09:30,12:05,IndiGo
+AI - 78,Bhubaneswar,09:45,12:05,Air India
+UL - 3620,Bhubaneswar,09:45,12:05,SriLankan Airlines
+CD - 806,Kulu,10:50,12:10,Alliance Air
+6E - 2256,Bhubaneswar,09:35,12:10,IndiGo
+SG - 6702,Mumbai,10:10,12:10,SpiceJet
+AI - 9806,Kulu,10:50,12:10,Air India
+G8 - 319,Mumbai,09:55,12:10,GoAir
+AC - 6405,Mumbai,10:00,12:15,Air Canada
+HM - 6508,Mumbai,10:00,12:15,Air Seychelles
+6E - 423,Lucknow,10:45,12:15,IndiGo
+AI - 809,Mumbai,10:00,12:15,Air India
+AI - 543,Hyderabad,09:45,12:20,Air India
+SG - 192,Bengaluru,09:30,12:20,SpiceJet
+AC - 6425,Hyderabad,09:45,12:20,Air Canada
+JL - 5286,Hyderabad,10:10,12:25,JAL
+6E - 249,Patna,10:30,12:25,IndiGo
+BA - 5874,Hyderabad,10:10,12:25,British Airways
+UK* - 830,Hyderabad,10:10,12:25,Vistara
+SQ - 4714,Hyderabad,10:10,12:25,Singapore Airlines
+MI - 5206,Hyderabad,10:10,12:25,SilkAir
+AI - 9640,Bathinda,11:05,12:30,Air India
+CD - 640,Bathinda,11:05,12:30,Alliance Air
+6E - 6966,Hyderabad,10:05,12:30,IndiGo
+UK* - 812,Bengaluru,09:45,12:35,Vistara
+MI - 5207,Bengaluru,09:45,12:35,SilkAir
+SQ - 4716,Bengaluru,09:45,12:35,Singapore Airlines
+SG - 8769,Kishangarh,11:30,12:35,SpiceJet
+JL - 5190,Ahmedabad,10:55,12:40,JAL
+UK* - 994,Mumbai,10:25,12:40,Vistara
+SQ - 4748,Mumbai,10:25,12:40,Singapore Airlines
+UK* - 976,Ahmedabad,10:55,12:40,Vistara
+BA - 5822,Ahmedabad,10:55,12:40,British Airways
+6E - 2554,Srinagar,10:55,12:40,IndiGo
+SQ - 4776,Ahmedabad,10:55,12:40,Singapore Airlines
+AI - 505,Bengaluru,10:00,12:45,Air India
+AC - 6419,Bengaluru,10:00,12:45,Air Canada
+G8 - 424,Hyderabad,10:25,12:45,GoAir
+SG - 478,Shirdi,10:55,12:50,SpiceJet
+G8 - 129,Srinagar,11:10,12:50,GoAir
+BA - 5866,Kochi,09:50,12:55,British Airways
+UU - 7982,Chennai,09:55,12:55,Air Austral
+UK* - 882,Kochi,09:50,12:55,Vistara
+AI - 430,Chennai,09:55,12:55,Air India
+SQ - 4762,Kochi,09:50,12:55,Singapore Airlines
+AI - 21,Kolkata,10:25,12:55,Air India
+MI - 5238,Kochi,09:50,12:55,SilkAir
+AC - 6423,Kolkata,10:25,12:55,Air Canada
+G8 - 220,Leh,11:20,13:00,GoAir
+AI - 828,Srinagar,11:30,13:00,Air India
+6E - 2943,Bengaluru,10:10,13:00,IndiGo
+6E - 298,Mumbai,10:50,13:05,IndiGo
+6E - 2409,Raipur,11:05,13:05,IndiGo
+6E - 842,Chandigarh,12:05,13:10,IndiGo
+G8 - 174,Pune,10:45,13:10,GoAir
+K4 - 248,Hong Kong,09:40,13:15,Kalitta Air
+6E - 138,Gorakhpur,11:40,13:15,IndiGo
+AI - 511,Kochi,10:00,13:15,Air India
+G8 - 146,Ranchi,11:15,13:15,GoAir
+6E - 679,Dehra Dun,12:20,13:15,IndiGo
+6E - 2108,Bengaluru,10:20,13:20,IndiGo
+AI - 446,Leh,11:55,13:30,Air India
+6E - 2044,Ahmedabad,12:00,13:30,IndiGo
+FG - 311,Kandahar,10:30,13:30,Ariana Afghan Airlines
+SG - 124,Leh,12:00,13:30,SpiceJet
+WY - 245,Muscat,09:00,13:35,Oman Air
+6E - 2325,Patna,11:55,13:40,IndiGo
+6E - 2032,Bengaluru,10:55,13:45,IndiGo
+6E - 2487,Chennai,10:50,13:45,IndiGo
+I5* - 745,Ranchi,11:45,13:50,AirAsia India
+I5* - 741,Bengaluru,11:05,13:55,AirAsia India
+SG - 2746,Kanpur,12:30,13:55,SpiceJet
+AI - 464,Chandigarh,12:45,13:55,Air India
+SG - 939,Srinagar,12:35,14:00,SpiceJet
+6E - 2038,Allahabad,12:50,14:05,IndiGo
+6E - 614,Guwahati,11:20,14:05,IndiGo
+AI - 826,Srinagar,12:25,14:05,Air India
+SQ - 4746,Bengaluru,11:30,14:10,Singapore Airlines
+SQ - 4710,Mumbai,11:55,14:10,Singapore Airlines
+JL - 5192,Bengaluru,11:30,14:10,JAL
+BA - 5838,Bengaluru,11:30,14:10,British Airways
+6E - 845,Hyderabad,11:45,14:10,IndiGo
+MI - 5226,Bengaluru,11:30,14:10,SilkAir
+UK* - 816,Bengaluru,11:30,14:10,Vistara
+UK* - 960,Mumbai,11:55,14:10,Vistara
+JL - 5182,Mumbai,11:55,14:10,JAL
+SG - 8904,Vishakhapatnam,11:55,14:15,SpiceJet
+AI - 126,Chicago,12:00,14:15,Air India
+CD - 614,Jammu,12:30,14:15,Alliance Air
+AI - 9614,Jammu,12:30,14:15,Air India
+6E - 2027,Vadodara,12:35,14:20,IndiGo
+G8 - 465,Mumbai,12:10,14:20,GoAir
+6E - 985,Coimbatore,11:25,14:25,IndiGo
+AI - 492,Jaipur,13:30,14:25,Air India
+6E - 6488,Kolkata,12:00,14:25,IndiGo
+UL - 3600,Jaipur,13:30,14:25,SriLankan Airlines
+ET - 1768,Jaipur,13:30,14:25,Ethiopian Airlines
+G8 - 120,Bengaluru,11:40,14:30,GoAir
+SG - 90,Bangkok,11:10,14:30,SpiceJet
+SG - 8476,Gorakhpur,13:25,14:30,SpiceJet
+AI - 486,Port Blair,10:50,14:35,Air India
+UL - 3616,Patna,12:50,14:35,SriLankan Airlines
+AI - 410,Patna,12:50,14:35,Air India
+6E - 1836,Abu Dhabi,09:20,14:40,IndiGo
+SG - 8212,Goa,12:05,14:40,SpiceJet
+6E - 2646,Bagdogra,12:30,14:45,IndiGo
+6E - 134,Nagpur,13:00,14:45,IndiGo
+EK - 516,Dubai,09:30,14:50,Emirates
+SG - 161,Jammu,13:25,14:55,SpiceJet
+I5* - 768,Bagdogra,12:45,14:55,AirAsia India
+G8 - 269,Lucknow,13:40,14:55,GoAir
+AI - 9714,Dharamsala,13:05,15:00,Air India
+6E - 168,Mumbai,12:50,15:00,IndiGo
+SQ - 4722,Goa,12:25,15:00,Singapore Airlines
+UK* - 856,Goa,12:25,15:00,Vistara
+CD - 714,Dharamsala,13:05,15:00,Alliance Air
+6E - 653,Jammu,13:35,15:05,IndiGo
+I5* - 315,Mumbai,12:55,15:05,AirAsia India
+CD - 816,Pantnagar,14:10,15:10,Alliance Air
+AI - 412,Lucknow,14:05,15:10,Air India
+6E - 755,Dehra Dun,14:15,15:10,IndiGo
+AI - 9816,Pantnagar,14:10,15:10,Air India
+AI - 677,Mumbai,13:00,15:15,Air India
+UK* - 644,Srinagar,13:45,15:20,Vistara
+UK* - 788,Bhubaneswar,12:55,15:25,Vistara
+G8 - 2512,Patna,13:50,15:25,GoAir
+I5* - 784,Guwahati,12:50,15:30,AirAsia India
+AI - 418,Ranchi,13:25,15:30,Air India
+6E - 2065,Surat Gujarat,13:40,15:30,IndiGo
+6E - 6616,Kolkata,13:05,15:35,IndiGo
+I5* - 713,Srinagar,14:00,15:35,AirAsia India
+EY - 210,Abu Dhabi,09:55,15:35,Etihad Airways
+6E - 2315,Udaipur,14:10,15:35,IndiGo
+6E - 2246,Bengaluru,13:00,15:50,IndiGo
+6E - 616,Ahmedabad,14:20,15:55,IndiGo
+6E - 176,Mumbai,13:40,15:55,IndiGo
+HY - 423,Amritsar,15:10,15:55,Uzbekistan Airways
+SG - 8732,Adampur,14:45,16:00,SpiceJet
+6E - 6052,Thiruvananthapuram,12:40,16:05,IndiGo
+AI - 501,Bengaluru,13:20,16:10,Air India
+AI - 102,New York,15:30,16:15,Air India
+SG - 106,Chennai,13:20,16:15,SpiceJet
+G8 - 196,Jammu,14:50,16:15,GoAir
+AI - 880,Bagdogra,13:50,16:15,Air India
+6E - 191,Patna,14:30,16:20,IndiGo
+CD - 838,Ludhiana,15:05,16:20,Alliance Air
+AI - 476,Jodhpur,14:55,16:20,Air India
+AI - 76,Bhubaneswar,13:50,16:20,Air India
+UL - 3622,Bhubaneswar,13:50,16:20,SriLankan Airlines
+6E - 32,Kathmandu,14:45,16:20,IndiGo
+6E - 6906,Guwahati,13:45,16:25,IndiGo
+G8 - 229,Patna,14:40,16:25,GoAir
+6E - 436,Ranchi,14:25,16:25,IndiGo
+6E - 306,Lucknow,15:10,16:30,IndiGo
+AI - 472,Udaipur,15:10,16:30,Air India
+K4 - 253,Leipzig/Halle,04:15,16:30,Kalitta Air
+UK* - 726,Bagdogra,14:10,16:30,Vistara
+UK* - 707,Amritsar,15:20,16:35,Vistara
+6E - 2694,Srinagar,15:05,16:35,IndiGo
+6E - 2021,Kolkata,14:20,16:35,IndiGo
+BA - 5828,Amritsar,15:20,16:35,British Airways
+AI - 843,Goa,14:10,16:35,Air India
+ET - 1775,Goa,14:10,16:35,Ethiopian Airlines
+SQ - 4727,Amritsar,15:20,16:35,Singapore Airlines
+SQ - 4789,Lucknow,15:25,16:40,Singapore Airlines
+UK* - 997,Lucknow,15:25,16:40,Vistara
+6E - 6448,Mumbai,14:30,16:45,IndiGo
+6E - 2204,Raipur,14:50,16:45,IndiGo
+UK* - 879,Chandigarh,15:20,16:45,Vistara
+BA - 5882,Chandigarh,15:20,16:45,British Airways
+UL - 3339,Tokyo,11:40,16:45,SriLankan Airlines
+JL - 749,Tokyo,11:40,16:45,JAL
+6E - 332,Goa,14:10,16:50,IndiGo
+AI - 216,Kathmandu,15:35,16:50,Air India
+G8 - 102,Kolkata,14:20,16:50,GoAir
+SQ - 4765,Varanasi,15:20,16:55,Singapore Airlines
+UK* - 813,Jammu,15:30,16:55,Vistara
+UK* - 955,Varanasi,15:20,16:55,Vistara
+UK* - 944,Mumbai,14:40,16:55,Vistara
+SQ - 4736,Mumbai,14:40,16:55,Singapore Airlines
+BG - 97,Dhaka,15:00,17:00,Biman Bangladesh Airlines
+AI - 307,Tokyo,11:15,17:00,Air India
+AC - 6399,Tokyo,11:15,17:00,Air Canada
+SG - 8722,Patna,15:10,17:00,SpiceJet
+IX - 11,Madurai,13:45,17:00,Air India Express
+SG - 8562,Coimbatore,13:45,17:00,SpiceJet
+AI - 9016,Madurai,13:45,17:00,Air India
+SQ - 4752,Goa,14:25,17:05,Singapore Airlines
+UL - 3613,Varanasi,15:30,17:05,SriLankan Airlines
+AI - 433,Varanasi,15:30,17:05,Air India
+UK* - 848,Goa,14:25,17:05,Vistara
+BA - 5870,Goa,14:25,17:05,British Airways
+AI - 309,Melbourne,08:45,17:10,Air India
+ET - 1081,Melbourne,08:45,17:10,Ethiopian Airlines
+6E - 6468,Hyderabad,14:45,17:10,IndiGo
+UK* - 612,Srinagar,15:20,17:10,Vistara
+I5* - 781,Guwahati,14:10,17:10,AirAsia India
+AI - 822,Jammu,15:45,17:15,Air India
+SG - 8172,Goa,14:35,17:15,SpiceJet
+6E - 2978,Imphal,14:30,17:20,IndiGo
+G8 - 149,Srinagar,15:45,17:20,GoAir
+UK* - 969,Guwahati,14:45,17:25,Vistara
+SQ - 4745,Guwahati,14:45,17:25,Singapore Airlines
+6E - 417,Kolkata,15:00,17:25,IndiGo
+6E - 6097,Mumbai,15:15,17:30,IndiGo
+SG - 8969,Jharsuguda,15:40,17:35,SpiceJet
+SG - 253,Srinagar,16:05,17:35,SpiceJet
+SG - 2194,Dharamsala,16:10,17:35,SpiceJet
+6E - 535,Jammu,16:10,17:35,IndiGo
+AI - 408,Patna,16:00,17:40,Air India
+G8 - 851,Bagdogra,15:25,17:40,GoAir
+G8 - 171,Jammu,16:05,17:40,GoAir
+CD - 810,Gorakhpur,15:45,17:45,Alliance Air
+AI - 9810,Gorakhpur,15:45,17:45,Air India
+I5* - 776,Goa,15:00,17:45,AirAsia India
+JL - 5735,Colombo,14:10,17:45,JAL
+UL - 195,Colombo,14:10,17:45,SriLankan Airlines
+AZ - 5604,Colombo,14:10,17:45,Alitalia
+CX - 41,Hong Kong,14:35,17:50,Cathay Pacific
+SG - 8718,Bengaluru,15:05,17:55,SpiceJet
+G9 - 465,Sharjah,13:10,17:55,Air Arabia
+G8 - 132,Patna,16:10,17:55,GoAir
+6E - 2512,Vadodara,16:20,17:55,IndiGo
+SQ - 4730,Mumbai,15:45,18:00,Singapore Airlines
+JL - 5184,Mumbai,15:45,18:00,JAL
+BA - 5850,Mumbai,15:45,18:00,British Airways
+UK* - 902,Mumbai,15:45,18:00,Vistara
+6E - 637,Goa,15:20,18:00,IndiGo
+IX - 142,Dubai,12:50,18:00,Air India Express
+JL - 5184,Mumbai,15:45,18:00,JAL
+UK* - 902,Mumbai,15:45,18:00,Vistara
+6E - 637,Goa,15:20,18:00,IndiGo
+BA - 5850,Mumbai,15:45,18:00,British Airways
+SQ - 4730,Mumbai,15:45,18:00,Singapore Airlines
+IX - 142,Dubai,12:50,18:00,Air India Express
+SG - 125,Bagdogra,15:50,18:05,SpiceJet
+KE - 481,Seoul,13:00,18:05,Korean Air
+DL - 9028,Seoul,13:00,18:05,Delta Air Lines
+6E - 792,Patna,16:20,18:10,IndiGo
+6E - 2698,Chennai,15:35,18:10,IndiGo
+G8 - 153,Guwahati,15:30,18:15,GoAir
+I5* - 747,Srinagar,16:45,18:15,AirAsia India
+6E - 6646,Guwahati,15:35,18:20,IndiGo
+AI - 687,Mumbai,16:00,18:20,Air India
+SG - 942,Shirdi,16:25,18:25,SpiceJet
+SV - 758,Jeddah,10:45,18:25,Saudia
+AI - 405,Varanasi,16:50,18:30,Air India
+AI - 174,San Francisco,11:30,18:30,Air India
+AI - 541,Hyderabad,16:15,18:30,Air India
+G8 - 2518,Kochi,15:25,18:30,GoAir
+6E - 6409,Indore,16:55,18:35,IndiGo
+G8 - 758,Bagdogra,16:20,18:35,GoAir
+AI - 890,Guwahati,15:50,18:40,Air India
+SG - 2642,Jabalpur,16:30,18:40,SpiceJet
+6E - 2046,Ranchi,16:30,18:40,IndiGo
+6E - 174,Mumbai,16:20,18:40,IndiGo
+AI - 426,Kannur,15:30,18:45,Air India
+6E - 6685,Vijayawada,16:05,18:45,IndiGo
+6E - 2197,Srinagar,17:05,18:50,IndiGo
+SG - 8956,Srinagar,17:20,18:50,SpiceJet
+AI - 104,Dulles,17:55,18:50,Air India
+I5* - 549,Ranchi,16:50,18:55,AirAsia India
+6E - 963,Dehra Dun,18:10,19:00,IndiGo
+G8 - 134,Patna,17:20,19:05,GoAir
+SG - 169,Guwahati,16:15,19:05,SpiceJet
+6E - 2616,Bhubaneswar,16:35,19:05,IndiGo
+UK* - 819,Lucknow,18:00,19:10,Vistara
+AI - 442,Aurangabad,17:20,19:10,Air India
+AI - 144,Mumbai,17:00,19:10,Air India
+G8 - 335,Srinagar,17:45,19:20,GoAir
+6E - 206,Kolkata,16:50,19:20,IndiGo
+I5* - 757,Bagdogra,17:10,19:20,AirAsia India
+I5* - 799,Goa,16:35,19:20,AirAsia India
+6E - 162,Ahmedabad,17:40,19:25,IndiGo
+SG - 6704,Mumbai,17:15,19:25,SpiceJet
+JL - 5284,Kolkata,17:00,19:30,JAL
+AI - 9604,Allahabad,17:30,19:30,Air India
+CD - 604,Allahabad,17:30,19:30,Alliance Air
+MI - 5202,Kolkata,17:00,19:30,SilkAir
+UK* - 778,Kolkata,17:00,19:30,Vistara
+SQ - 4706,Kolkata,17:00,19:30,Singapore Airlines
+BA - 5860,Kolkata,17:00,19:30,British Airways
+AI - 456,Nanded,17:45,19:35,Air India
+ET - 1083,Sydney,10:45,19:35,Ethiopian Airlines
+6E - 508,Patna,17:50,19:35,IndiGo
+AI - 301,Sydney,10:45,19:35,Air India
+EY - 224,Abu Dhabi,14:00,19:40,Etihad Airways
+6E - 2988,Bengaluru,16:55,19:45,IndiGo
+AI - 9610,Dehra Dun,18:45,19:45,Air India
+CD - 610,Dehra Dun,18:45,19:45,Alliance Air
+6E - 185,Lucknow,18:25,19:45,IndiGo
+SG - 196,Bagdogra,17:35,19:45,SpiceJet
+AI - 503,Bengaluru,17:00,19:50,Air India
+AC - 6417,Bengaluru,17:00,19:50,Air Canada
+ET - 1223,Bengaluru,17:00,19:50,Ethiopian Airlines
+AI - 701,Kolkata,17:30,19:50,Air India
+ET - 1138,Kolkata,17:30,19:50,Ethiopian Airlines
+TK - 8385,Kolkata,17:30,19:50,Turkish Airlines
+TK - 8379,Bengaluru,17:00,19:50,Turkish Airlines
+AI - 539,Chennai,17:00,19:50,Air India
+ET - 1159,Chennai,17:00,19:50,Ethiopian Airlines
+TK - 8377,Chennai,17:00,19:50,Turkish Airlines
+G8 - 175,Lucknow,18:35,19:55,GoAir
+UK* - 638,Chandigarh,18:50,19:55,Vistara
+MI - 5219,Hyderabad,17:40,20:00,SilkAir
+UK* - 834,Chennai,17:10,20:00,Vistara
+JL - 5198,Chennai,17:10,20:00,JAL
+MI - 5244,Chennai,17:10,20:00,SilkAir
+SQ - 4772,Chennai,17:10,20:00,Singapore Airlines
+6E - 956,Mumbai,17:45,20:00,IndiGo
+BA - 5876,Hyderabad,17:40,20:00,British Airways
+UK* - 890,Hyderabad,17:40,20:00,Vistara
+SQ - 4738,Hyderabad,17:40,20:00,Singapore Airlines
+6E - 6635,Varanasi,18:30,20:05,IndiGo
+6E - 2907,Chennai,17:05,20:05,IndiGo
+SQ - 406,Singapore,16:50,20:10,Singapore Airlines
+G8 - 285,Goa,17:25,20:10,GoAir
+NH - 6286,Singapore,16:50,20:10,ANA
+VA - 5696,Singapore,16:50,20:10,Virgin Australia
+AI - 115,Amritsar,19:10,20:15,Air India
+TK - 8387,Amritsar,19:10,20:15,Turkish Airlines
+I5* - 732,Pune,17:55,20:15,AirAsia India
+SG - 254,Kolkata,18:00,20:20,SpiceJet
+AI - 484,Raipur,18:50,20:25,Air India
+6E - 2329,Lucknow,19:10,20:25,IndiGo
+6E - 724,Goa,17:45,20:25,IndiGo
+EK - 514,Dubai,15:10,20:25,Emirates
+AI - 11,Ahmedabad,18:50,20:30,Air India
+6E - 2034,Bengaluru,17:50,20:30,IndiGo
+TK - 8483,Ahmedabad,18:50,20:30,Turkish Airlines
+SG - 2328,Dehra Dun,19:30,20:30,SpiceJet
+AI - 660,Mumbai,18:00,20:30,Air India
+AC - 6411,Ahmedabad,18:50,20:30,Air Canada
+ET - 1228,Ahmedabad,18:50,20:30,Ethiopian Airlines
+6E - 595,Hyderabad,18:15,20:35,IndiGo
+G8 - 339,Mumbai,18:20,20:35,GoAir
+6E - 1702,Doha,14:15,20:35,IndiGo
+6E - 665,Jaipur,19:35,20:40,IndiGo
+6E - 2894,Bagdogra,18:25,20:40,IndiGo
+G8 - 718,Ahmedabad,18:55,20:40,GoAir
+SQ - 4750,Mumbai,18:30,20:40,Singapore Airlines
+UK* - 996,Mumbai,18:30,20:40,Vistara
+AI - 9618,Jabalpur,18:45,20:45,Air India
+CD - 618,Jabalpur,18:45,20:45,Alliance Air
+6E - 2299,Udaipur,19:15,20:45,IndiGo
+GF - 134,Bahrain,14:30,20:50,Gulf Air
+6E - 2023,Bhopal,19:25,20:50,IndiGo
+AI - 416,Patna,19:00,20:55,Air India
+SG - 158,Mumbai,18:45,20:55,SpiceJet
+TG - 315,Bangkok,17:55,20:55,Thai Airways International
+UL - 3618,Patna,19:00,20:55,SriLankan Airlines
+NH - 5943,Bangkok,17:55,20:55,ANA
+6E - 2783,Bengaluru,18:15,21:00,IndiGo
+6E - 2314,Bhubaneswar,18:40,21:00,IndiGo
+MXD - 205,Kuala Lumpur,18:00,21:05,Malindo Air
+6E - 439,Mumbai,18:55,21:05,IndiGo
+6E - 6325,Patna,19:15,21:05,IndiGo
+AI - 850,Pune,18:50,21:05,Air India
+AI - 428,Varanasi,19:20,21:10,Air India
+6E - 2772,Vishakhapatnam,18:35,21:10,IndiGo
+UL - 3615,Varanasi,19:20,21:10,SriLankan Airlines
+AI - 9644,Jaipur,20:20,21:15,Air India
+CD - 644,Jaipur,20:20,21:15,Alliance Air
+AC - 6409,Mumbai,19:00,21:15,Air Canada
+AI - 888,Mumbai,19:00,21:15,Air India
+6E - 528,Pune,19:00,21:15,IndiGo
+ET - 1085,Hong Kong,18:05,21:20,Ethiopian Airlines
+AC - 6451,Hong Kong,18:05,21:20,Air Canada
+HX - 1315,Hong Kong,18:05,21:20,Hong Kong Airlines
+6E - 2029,Chennai,18:10,21:20,IndiGo
+AI - 315,Hong Kong,18:05,21:20,Air India
+TK - 8381,Hyderabad,19:05,21:25,Turkish Airlines
+ET - 1221,Hyderabad,19:05,21:25,Ethiopian Airlines
+AI - 840,Hyderabad,19:05,21:25,Air India
+QF - 8243,Hong Kong,17:45,21:30,Qantas
+6E - 6386,Goa,18:50,21:30,IndiGo
+JL - 7909,Hong Kong,17:45,21:30,JAL
+AA - 8886,Hong Kong,17:45,21:30,American Airlines
+CX - 695,Hong Kong,17:45,21:30,Cathay Pacific
+AI - 812,Lucknow,20:15,21:35,Air India
+6E - 2454,Raipur,19:40,21:35,IndiGo
+UL - 3611,Lucknow,20:15,21:35,SriLankan Airlines
+6E - 991,Varanasi,20:05,21:40,IndiGo
+6E - 898,Kolkata,19:10,21:40,IndiGo
+6E - 2752,Chennai,18:55,21:40,IndiGo
+JL - 5186,Mumbai,19:45,21:45,JAL
+UK* - 940,Mumbai,19:45,21:45,Vistara
+AI - 820,Vadodara,20:20,21:45,Air India
+G8 - 2541,Pune,19:30,21:45,GoAir
+6E - 706,Kochi,18:30,21:45,IndiGo
+SQ - 4734,Mumbai,19:45,21:45,Singapore Airlines
+G8 - 34,Male,17:20,21:50,GoAir
+6E - 6684,Hyderabad,19:30,21:50,IndiGo
+MH - 190,Kuala Lumpur,18:50,21:50,Malaysia Airlines
+GA - 9427,Kuala Lumpur,18:50,21:50,Garuda Indonesia
+JL - 7941,Kuala Lumpur,18:50,21:50,JAL
+6E - 166,Ahmedabad,20:15,21:55,IndiGo
+G8 - 150,Patna,20:05,21:55,GoAir
+SG - 8145,Patna,20:25,21:55,SpiceJet
+SG - 8912,Ahmedabad,20:30,21:55,SpiceJet
+SQ - 4740,Ahmedabad,20:25,22:00,Singapore Airlines
+BA - 5824,Ahmedabad,20:25,22:00,British Airways
+UK* - 966,Ahmedabad,20:25,22:00,Vistara
+AI - 310,Mumbai,19:45,22:00,Air India
+UL - 3638,Guwahati,19:20,22:05,SriLankan Airlines
+G8 - 148,Ranchi,20:10,22:05,GoAir
+AI - 892,Guwahati,19:20,22:05,Air India
+SG - 8638,Bhopal,20:45,22:10,SpiceJet
+SG - 6902,Mumbai,20:20,22:10,SpiceJet
+6E - 841,Mumbai,20:00,22:10,IndiGo
+6E - 2808,Bengaluru,19:30,22:15,IndiGo
+I5* - 793,Pune,20:10,22:15,AirAsia India
+6E - 396,Coimbatore,19:10,22:15,IndiGo
+SQ - 4758,Bengaluru,19:40,22:20,Singapore Airlines
+UK* - 818,Bengaluru,19:40,22:20,Vistara
+UK* - 798,Raipur,20:35,22:20,Vistara
+BA - 5840,Bengaluru,19:40,22:20,British Airways
+MI - 5228,Bengaluru,19:40,22:20,SilkAir
+I5* - 727,Hyderabad,20:30,22:25,AirAsia India
+UK* - 754,Ranchi,20:25,22:25,Vistara
+6E - 2488,Vadodara,20:50,22:25,IndiGo
+CZ - 359,Guangzhou,19:05,22:25,China Southern Airlines
+6E - 6184,Ranchi,20:30,22:30,IndiGo
+BA - 5890,Pune,20:20,22:30,British Airways
+UK* - 992,Pune,20:20,22:30,Vistara
+SG - 2420,Varanasi,20:50,22:35,SpiceJet
+DL - 8650,Paris,10:35,22:35,Delta Air Lines
+KL - 2368,Paris,10:35,22:35,KLM
+AF - 226,Paris,10:35,22:35,Air France
+SQ - 4728,Hyderabad,20:35,22:35,Singapore Airlines
+UK* - 870,Hyderabad,20:35,22:35,Vistara
+SQ - 4718,Kolkata,20:20,22:35,Singapore Airlines
+MI - 5235,Kolkata,20:20,22:35,SilkAir
+BA - 5862,Kolkata,20:20,22:35,British Airways
+UK* - 708,Kolkata,20:20,22:35,Vistara
+ET - 1225,Thiruvananthapuram,19:20,22:35,Ethiopian Airlines
+AI - 264,Thiruvananthapuram,19:20,22:35,Air India
+BA - 5878,Hyderabad,20:35,22:35,British Airways
+MI - 5215,Hyderabad,20:35,22:35,SilkAir
+AI - 926,Riyadh,15:45,22:40,Air India
+UA - 8064,Toronto,22:10,22:40,United Airlines
+G8 - 341,Mumbai,20:25,22:40,GoAir
+AC - 42,Toronto,22:10,22:40,Air Canada
+BA - 5832,Bhubaneswar,20:30,22:45,British Airways
+ET - 1757,Kolkata,20:30,22:45,Ethiopian Airlines
+UK* - 782,Bhubaneswar,20:30,22:45,Vistara
+AC - 6413,Kolkata,20:30,22:45,Air Canada
+6E - 2041,Patna,21:00,22:45,IndiGo
+OZ - 6382,Kolkata,20:30,22:45,Asiana Airlines
+TK - 8485,Kolkata,20:30,22:45,Turkish Airlines
+AI - 23,Kolkata,20:30,22:45,Air India
+SQ - 4704,Bhubaneswar,20:30,22:45,Singapore Airlines
+6E - 402,Pune,20:30,22:50,IndiGo
+6E - 2716,Bengaluru,20:00,22:50,IndiGo
+UK* - 886,Kochi,19:40,22:55,Vistara
+AI - 468,Vijayawada,20:40,22:55,Air India
+MI - 5240,Kochi,19:40,22:55,SilkAir
+SQ - 4780,Kochi,19:40,22:55,Singapore Airlines
+SG - 8482,Surat Gujarat,20:55,22:55,SpiceJet
+6E - 867,Indore,21:20,22:55,IndiGo
+6E - 558,Guwahati,20:20,22:55,IndiGo
+BA - 5868,Kochi,19:40,22:55,British Airways
+SQ - 4744,Mumbai,20:55,23:00,Singapore Airlines
+BA - 5852,Mumbai,20:55,23:00,British Airways
+UK* - 988,Mumbai,20:55,23:00,Vistara
+AI - 490,Surat Gujarat,21:25,23:05,Air India
+I5* - 749,Indore,21:40,23:05,AirAsia India
+AI - 101,Mumbai,21:00,23:10,Air India
+MK - 8030,Mumbai,21:00,23:10,Air Mauritius
+G8 - 172,Pune,20:55,23:10,GoAir
+6E - 476,Kolkata,20:40,23:10,IndiGo
+AI - 1127,Hyderabad,20:55,23:10,Air India
+SG - 154,Mumbai,21:05,23:10,SpiceJet
+AC - 9588,Munich,12:10,23:15,Air Canada
+SK - 3596,Munich,12:10,23:15,SAS
+UA - 9236,Munich,12:10,23:15,United Airlines
+AI - 8762,Munich,12:10,23:15,Air India
+LH - 762,Munich,12:10,23:15,Lufthansa
+AC - 6400,London,09:45,23:20,Air Canada
+SG - 264,Kolkata,20:45,23:20,SpiceJet
+AI - 47,Kochi,20:15,23:20,Air India
+G8 - 2520,Nagpur,21:25,23:20,GoAir
+ET - 1077,Kochi,20:15,23:20,Ethiopian Airlines
+OZ - 6384,Kochi,20:15,23:20,Asiana Airlines
+6E - 2129,Surat Gujarat,21:30,23:20,IndiGo
+AC - 6445,Kochi,20:15,23:20,Air Canada
+AI - 162,London,09:45,23:20,Air India
+AI - 438,Bhopal,22:00,23:25,Air India
+6E - 248,Mumbai,21:10,23:25,IndiGo
+9W - 233,Amsterdam,11:40,23:30,Jet Airways (India)
+BA - 143,London,09:00,23:30,British Airways
+KL - 3816,Amsterdam,11:40,23:30,KLM
+AI - 7147,Seoul,18:00,23:30,Air India
+G8 - 643,Mumbai,21:15,23:30,GoAir
+OZ - 767,Seoul,18:00,23:30,Asiana Airlines
+AI - 14,Ahmedabad,22:00,23:35,Air India
+OZ - 6380,Ahmedabad,22:00,23:35,Asiana Airlines
+AI - 474,Bhubaneswar,21:25,23:40,Air India
+UL - 3623,Bhubaneswar,21:25,23:40,SriLankan Airlines
+SG - 108,Chennai,20:45,23:40,SpiceJet
+AI - 480,Amritsar,22:50,23:40,Air India
+SG - 126,Hyderabad,21:25,23:45,SpiceJet
+G8 - 118,Bengaluru,20:55,23:45,GoAir
+NH - 827,Tokyo,17:55,23:45,ANA
+6E - 728,Ahmedabad,22:00,23:45,IndiGo
+BA - 5842,Bengaluru,21:00,23:50,British Airways
+SQ - 4782,Bengaluru,21:00,23:50,Singapore Airlines
+MI - 5208,Bengaluru,21:00,23:50,SilkAir
+JL - 5194,Bengaluru,21:00,23:50,JAL
+UK* - 814,Bengaluru,21:00,23:50,Vistara
+SG - 8481,Patna,21:50,23:50,SpiceJet
+TK - 8477,Chennai,21:05,23:55,Turkish Airlines
+AI - 173,Bengaluru,21:05,23:55,Air India
+MK - 8121,Bengaluru,21:05,23:55,Air Mauritius
+AI - 43,Chennai,21:05,23:55,Air India
+AC - 6429,Chennai,21:05,23:55,Air Canada
+TK - 8479,Bengaluru,21:05,23:55,Turkish Airlines
+ET - 1763,Chennai,21:05,23:55,Ethiopian Airlines
+JL - 7933,Hong Kong,20:05,23:55,JAL
+AA - 8947,Hong Kong,20:05,23:55,American Airlines
+CX - 697,Hong Kong,20:05,23:55,Cathay Pacific
+SU - 234,Moscow,13:05,23:55,Aeroflot
+MK - 8131,Chennai,21:05,23:55,Air Mauritius
+UA - 9810,Zurich,12:40,23:55,United Airlines
+AI - 7704,Zurich,12:40,23:55,Air India
+AC - 6826,Zurich,12:40,23:55,Air Canada
+LX - 146,Zurich,12:40,23:55,SWISS
+QF - 8251,Hong Kong,20:05,23:55,Qantas
